@@ -8,27 +8,22 @@ output: html_document
 
 <img src="Images/UARK Logo vert NEW copy.jpg" width="200" height="200" />    
 <br>  
+
+###Rob Wells, Ph.D., University of Arkansas, Fayetteville, AR    
+
 <br>  
 
 ---
 
-###** Wifi: XXXX **     
+###** Wifi: APA Wireless **
 
-###**Password: XXXX **     
+###**Password: P@ssw0rd4ANet **     
 
 ###**Today's Presentation**
 
 # <http://bit.do/arkpresswomen>
 
 <br>
-
-**Presenter**
-
-###Rob Wells, Ph.D., University of Arkansas, Fayetteville, AR    
-
-<br>
-<br>
-
 --- 
 
 **This 1 hour hands-on session will show journalists how to build basic data visualizations and maps using FBI crime data.** 
